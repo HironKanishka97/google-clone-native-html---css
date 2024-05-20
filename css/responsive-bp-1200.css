@@ -1,0 +1,8 @@
+@media all and (max-width:1200px ){
+    footer{
+        #bottom{
+            display: flex;
+            justify-content: space-evenly;
+        }
+    }
+}
