@@ -42,14 +42,18 @@ page. It includes the search bar, buttons, and other elements found on the Googl
 ### Usage
 
 + Responsive design
-
+<br>
 + Max width 1200px
   <img src="readme-images/ui.png">
-
+<br>
 + Max width 992px
+  <br>
   <img src="readme-images/max-width-992px.png">
+<br>
 + Small -screen widths
+  <br>
   <img src="readme-images/small-screen.png">
+<br>
   <img src="readme-images/xs.png" style="height=100px">
 
 <!-- LICENSE -->
